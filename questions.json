@@ -1,0 +1,577 @@
+{
+  "questions": [
+    {
+      "question": "Quel est le processus par lequel les plantes convertissent la lumière du soleil en énergie chimique ?",
+      "choices": ["Photosynthèse", "Respiration cellulaire", "Fermentation", "Oxydation"],
+      "correct_answer": "Photosynthèse",
+      "feedback": "La photosynthèse est le processus par lequel les plantes convertissent la lumière du soleil en énergie chimique (glucose) et en libérant de l'oxygène."
+    },
+    {
+      "question": "Qui est considéré comme le père de l'informatique moderne et a conçu la machine analytique ?",
+      "choices": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"],
+      "correct_answer": "Charles Babbage",
+      "feedback": "Charles Babbage est considéré comme le père de l'informatique moderne et a conçu la machine analytique, un ancêtre de l'ordinateur."
+    },
+    {
+      "question": "Quel est l'organe le plus grand du corps humain ?",
+      "choices": ["Cerveau", "Foie", "Peau", "Coeur"],
+      "correct_answer": "Peau",
+      "feedback": "La peau est l'organe le plus grand du corps humain, et elle joue un rôle essentiel dans la protection et la régulation de la température corporelle."
+    },
+    {
+      "question": "Quel est le nom de la molécule de l'ADN en forme de double hélice ?",
+      "choices": ["ARN", "Protéine", "Acide ribonucléique", "Acide désoxyribonucléique"],
+      "correct_answer": "Acide désoxyribonucléique",
+      "feedback": "L'ADN, ou acide désoxyribonucléique, est la molécule en forme de double hélice qui contient l'information génétique dans les cellules."
+    },
+    {
+      "question": "Qui est le compositeur de la célèbre Symphonie n°9 en ré mineur, également connue sous le nom de la Neuvième symphonie de Beethoven ?",
+      "choices": ["Mozart", "Bach", "Chopin", "Beethoven"],
+      "correct_answer": "Beethoven",
+      "feedback": "Ludwig van Beethoven est le compositeur de la Symphonie n°9 en ré mineur, qui inclut l'hymne européen, l'Ode à la joie."
+    },
+    {
+        
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "choices": ["H2O", "CO2", "O2", "CH4"],
+      "correct_answer": "H2O",
+      "feedback": "La formule chimique de l'eau est H2O. Cela signifie qu'une molécule d'eau est composée de deux atomes d'hydrogène (H) et d'un atome d'oxygène (O)."
+    },
+    {
+      "question": "Quel est le processus par lequel les plantes respirent en absorbant de l'oxygène et en libérant du dioxyde de carbone ?",
+      "choices": ["Photosynthèse", "Transpiration", "Respiration cellulaire", "Fermentation"],
+      "correct_answer": "Respiration cellulaire",
+      "feedback": "Les plantes respirent en absorbant de l'oxygène et en libérant du dioxyde de carbone par un processus appelé respiration cellulaire. La photosynthèse est le processus inverse."
+    },
+    {
+      "question": "Quel est le rôle de l'ARN messager (ARNm) dans la synthèse des protéines ?",
+      "choices": ["Stockage de l'information génétique", "Traduction de l'ADN en protéines", "Synthèse des ribosomes", "Transport des acides aminés"],
+      "correct_answer": "Traduction de l'ADN en protéines",
+      "feedback": "L'ARNm joue un rôle essentiel dans la synthèse des protéines en transportant l'information génétique de l'ADN vers les ribosomes, où les protéines sont assemblées."
+    },
+    {
+      "question": "Quel est l'organe principal du système respiratoire humain responsable de la respiration ?",
+      "choices": ["Coeur", "Reins", "Poumons", "Estomac"],
+      "correct_answer": "Poumons",
+      "feedback": "Les poumons sont l'organe principal du système respiratoire humain. Ils permettent l'absorption d'oxygène de l'air et l'élimination du dioxyde de carbone du corps."
+    },
+    {
+      "question": "Quel est l'acide aminé essentiel qui est souvent limitant dans les régimes végétariens et végétaliens ?",
+      "choices": ["Glutamine", "Lysine", "Phénylalanine", "Méthionine"],
+      "correct_answer": "Lysine",
+      "feedback": "La lysine est un acide aminé essentiel qui peut être limitant dans les régimes végétariens et végétaliens, car il n'est pas toujours présent en quantité suffisante dans les sources végétales."
+    },
+    {
+      "question": "Quelle est la plus petite unité de stockage des données dans un ordinateur ?",
+      "choices": ["Bit", "Byte", "Kilobyte", "Megabyte"],
+      "correct_answer": "Bit",
+      "feedback": "Le bit (abréviation de binary digit) est la plus petite unité de stockage des données dans un ordinateur. Il peut représenter 0 ou 1."
+    },
+    {
+      "question": "Quelle est la couche externe d'un neurone qui permet la transmission des signaux électriques à d'autres neurones ou cellules ?",
+      "choices": ["Dendrite", "Axone", "Noyau", "Synapse"],
+      "correct_answer": "Axone",
+      "feedback": "L'axone est la couche externe d'un neurone qui permet la transmission des signaux électriques à d'autres neurones ou cellules. Il est souvent enveloppé dans une gaine de myéline."
+    },
+    {
+      "question": "Quel est l'élément chimique le plus abondant dans l'écorce terrestre ?",
+      "choices": ["Oxygène", "Silicium", "Aluminium", "Fer"],
+      "correct_answer": "Oxygène",
+      "feedback": "L'oxygène est l'élément chimique le plus abondant dans l'écorce terrestre, suivi du silicium, de l'aluminium et du fer."
+    },
+    {
+      "question": "Quel est le processus biologique par lequel les plantes perdent de l'eau sous forme de vapeur par leurs feuilles ?",
+      "choices": ["Photosynthèse", "Transpiration", "Respiration cellulaire", "Évaporation"],
+      "correct_answer": "Transpiration",
+      "feedback": "La transpiration est le processus biologique par lequel les plantes perdent de l'eau sous forme de vapeur par leurs feuilles pour réguler la température et absorber les nutriments du sol."
+    },
+    {
+      "question": "Quel est le nom du compositeur autrichien connu pour ses œuvres classiques, dont la célèbre Symphonie n°40 en sol mineur ?",
+      "choices": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Schubert"],
+      "correct_answer": "Wolfgang Amadeus Mozart",
+      "feedback": "Wolfgang Amadeus Mozart était un compositeur autrichien célèbre pour ses œuvres classiques, y compris la Symphonie n°40 en sol mineur."
+    },
+    {
+      "question": "Quelle est la force qui maintient les objets en mouvement dans un cercle autour d'un point central ?",
+      "choices": ["Force gravitationnelle", "Force électromagnétique", "Force centripète", "Force centrifuge"],
+      "correct_answer": "Force centripète",
+      "feedback": "La force centripète est la force qui maintient les objets en mouvement dans un cercle autour d'un point central. Elle agit en direction du centre du cercle."
+    },
+    {
+      "question": "Quel est le processus par lequel les cellules animales obtiennent de l'énergie à partir du glucose en l'absence d'oxygène ?",
+      "choices": ["Photosynthèse", "Respiration cellulaire", "Fermentation lactique", "Glycolyse"],
+      "correct_answer": "Fermentation lactique",
+      "feedback": "La fermentation lactique est le processus par lequel les cellules animales obtiennent de l'énergie à partir du glucose en l'absence d'oxygène. Elle produit de l'acide lactique."
+    },
+    {
+      "question": "Quel est le nom du processus par lequel les cellules d'un organisme se multiplient pour former de nouvelles cellules identiques ?",
+      "choices": ["Mitose", "Méiose", "Fécondation", "Photosynthèse"],
+      "correct_answer": "Mitose",
+      "feedback": "La mitose est le processus par lequel les cellules d'un organisme se multiplient pour former de nouvelles cellules identiques. Elle est essentielle à la croissance et à la réparation des tissus."
+    },
+    {
+      "question": "Quel est le plus petit os du corps humain, situé dans l'oreille moyenne ?",
+      "choices": ["Fémur", "Radius", "Stapes", "Fibula"],
+      "correct_answer": "Stapes",
+      "feedback": "Le stapes, également appelé étrier, est le plus petit os du corps humain. Il fait partie de l'oreille moyenne et transmet les vibrations sonores à l'oreille interne."
+    },
+    {
+      "question": "Quel est le nom de l'ordinateur de la NASA qui a permis d'envoyer les premiers humains sur la Lune en 1969 ?",
+      "choices": ["Eniac", "Apollo", "Hubble", "Saturn V"],
+      "correct_answer": "Apollo",
+      "feedback": "L'ordinateur utilisé par la NASA pour envoyer les premiers humains sur la Lune en 1969 était l'Apollo Guidance Computer (AGC)."
+    },
+    {
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "choices": ["Vénus", "Mars", "Jupiter", "Saturne"],
+      "correct_answer": "Jupiter",
+      "feedback": "Jupiter est la plus grande planète du système solaire. Elle est principalement composée de gaz et est connue pour ses bandes de nuages et sa Grande Tache Rouge."
+    },
+    {
+      "question": "Quel est le nom de la réaction chimique qui convertit le glucose en énergie dans les cellules ?",
+      "choices": ["Oxydation", "Fermentation", "Respiration cellulaire", "Photosynthèse"],
+      "correct_answer": "Respiration cellulaire",
+      "feedback": "La respiration cellulaire est la réaction chimique qui convertit le glucose en énergie dans les cellules, produisant de l'ATP (adénosine triphosphate)."
+    },
+    {
+      "question": "Quel est le nom du polymère utilisé pour stocker l'information génétique dans les cellules ?",
+      "choices": ["ARN", "ADN", "ARNt", "Protéine"],
+      "correct_answer": "ADN",
+      "feedback": "L'ADN, ou acide désoxyribonucléique, est le polymère utilisé pour stocker l'information génétique dans les cellules. Il a une structure en double hélice."
+    },
+    {
+      "question": "Quel instrument de musique à vent est associé à l'Écosse et est joué en utilisant une technique de souffle circulaire ?",
+      "choices": ["Trompette", "Saxophone", "Cornemuse", "Trombone"],
+      "correct_answer": "Cornemuse",
+      "feedback": "La cornemuse est un instrument de musique à vent associé à l'Écosse. Il est joué en utilisant une technique de souffle circulaire pour produire des sons mélodiques."
+    },
+    {
+      "question": "Quel compositeur autrichien est considéré comme le roi de la valse et est célèbre pour ses compositions, dont Le Beau Danube bleu ?",
+      "choices": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Strauss II", "Anton Bruckner"],
+      "correct_answer": "Johann Strauss II",
+      "feedback": "Johann Strauss II, un compositeur autrichien, est considéré comme le roi de la valse et est célèbre pour ses compositions, notamment Le Beau Danube bleu."
+    },
+     {
+      "question": "Quelle équipe nationale a remporté le plus de Coupes du Monde de la FIFA jusqu'à présent ?",
+      "choices": ["Brésil", "Allemagne", "Italie", "Argentine"],
+      "correct_answer": "Brésil",
+      "feedback": "Le Brésil est l'équipe nationale qui a remporté le plus de Coupes du Monde de la FIFA, avec un total de cinq titres (1958, 1962, 1970, 1994, 2002)."
+    },
+    {
+      "question": "Quel pays a accueilli la Coupe du Monde de la FIFA en 2018 ?",
+      "choices": ["France", "Allemagne", "Russie", "Afrique du Sud"],
+      "correct_answer": "Russie",
+      "feedback": "La Coupe du Monde de la FIFA en 2018 a été accueillie par la Russie. C'était la première fois que la Russie organisait cet événement majeur."
+    },
+    {
+      "question": "Quelle équipe de football est surnommée les 'Azzurri' en raison de la couleur de son maillot national ?",
+      "choices": ["Allemagne", "Angleterre", "Italie", "Pays-Bas"],
+      "correct_answer": "Italie",
+      "feedback": "L'équipe nationale d'Italie est surnommée les 'Azzurri' en raison de la couleur bleue de son maillot national. C'est une équipe de football renommée."
+    },
+    {
+      "question": "En quelle année la Coupe du Monde de la FIFA a-t-elle été remportée pour la première fois par un pays d'Amérique du Sud ?",
+      "choices": ["1930", "1950", "1966", "1982"],
+      "correct_answer": "1930",
+      "feedback": "En 1930, l'Uruguay est devenu le premier pays d'Amérique du Sud à remporter la Coupe du Monde de la FIFA, en battant l'Argentine en finale."
+    },
+    {
+      "question": "Quel pays européen a remporté l'Euro 2020 (reporté en 2021 en raison de la pandémie) en battant l'Angleterre en finale ?",
+      "choices": ["France", "Italie", "Espagne", "Belgique"],
+      "correct_answer": "Italie",
+      "feedback": "L'Italie a remporté l'Euro 2020 en battant l'Angleterre en finale, remportant ainsi son deuxième championnat d'Europe après 1968."
+    },
+    {
+      "question": "Quel pays a été le premier à organiser à la fois la Coupe du Monde de la FIFA et les Jeux olympiques d'été la même année ?",
+      "choices": ["Brésil", "Allemagne", "France", "Italie"],
+      "correct_answer": "Italie",
+      "feedback": "L'Italie a été le premier pays à organiser à la fois la Coupe du Monde de la FIFA et les Jeux olympiques d'été la même année en 1934."
+    },
+    {
+      "question": "Quel pays a déclaré son indépendance de l'Empire britannique en 1776 ?",
+      "choices": ["Australie", "Canada", "Inde", "États-Unis"],
+      "correct_answer": "États-Unis",
+      "feedback": "Les États-Unis ont déclaré leur indépendance de l'Empire britannique en 1776, marquant le début des États-Unis en tant que nation indépendante."
+    },
+    {
+      "question": "Quel pays est également connu sous le nom de 'Pays des Maoris' en raison de sa population autochtone Maorie ?",
+      "choices": ["Australie", "Nouvelle-Zélande", "Fidji", "Tonga"],
+      "correct_answer": "Nouvelle-Zélande",
+      "feedback": "La Nouvelle-Zélande est souvent appelée le 'Pays des Maoris' en raison de sa population autochtone Maorie et de leur culture distinctive."
+    },
+    {
+      "question": "Quel pays a été le berceau de l'empire inca, une civilisation précolombienne avancée ?",
+      "choices": ["Mexique", "Pérou", "Bolivie", "Équateur"],
+      "correct_answer": "Pérou",
+      "feedback": "Le Pérou a été le berceau de l'empire inca, une civilisation précolombienne avancée connue pour son architecture, ses connaissances en ingénierie et sa culture."
+    },
+    {
+      "question": "Quel pays a été le premier à déclarer son indépendance en Amérique du Sud et est nommé d'après le général et homme politique sud-américain Simon Bolivar ?",
+      "choices": ["Venezuela", "Colombie", "Argentine", "Chili"],
+      "correct_answer": "Venezuela",
+      "feedback": "Le Venezuela a été le premier pays à déclarer son indépendance en Amérique du Sud et doit son nom à Simon Bolivar, un leader de l'indépendance sud-américaine."
+    },
+     {
+      "question": "Quelle équipe nationale de football est surnommée les 'Lionceaux Indomptables' ?",
+      "choices": ["Sénégal", "Cameroun", "Nigéria", "Algérie"],
+      "correct_answer": "Cameroun",
+      "feedback": "L'équipe nationale de football du Cameroun est surnommée les 'Lionceaux Indomptables' en raison de leur succès dans les compétitions internationales."
+    },
+    {
+      "question": "Quel pays a accueilli la Coupe du Monde de la FIFA en 1978 et l'a remportée pour la première fois dans son histoire ?",
+      "choices": ["Brésil", "Italie", "Argentine", "Allemagne"],
+      "correct_answer": "Argentine",
+      "feedback": "L'Argentine a accueilli la Coupe du Monde de la FIFA en 1978 et a remporté le tournoi pour la première fois dans son histoire."
+    },
+    {
+      "question": "Quel pays d'Asie est le plus grand producteur de riz au monde et est surnommé le 'Pays du Sourire' ?",
+      "choices": ["Chine", "Inde", "Japon", "Thaïlande"],
+      "correct_answer": "Thaïlande",
+      "feedback": "La Thaïlande est le plus grand producteur de riz au monde et est souvent surnommée le 'Pays du Sourire' en raison de la convivialité de ses habitants."
+    },
+    {
+      "question": "En quelle année l'Union soviétique s'est-elle effondrée, mettant fin à la Guerre froide et divisant en plusieurs pays indépendants ?",
+      "choices": ["1989", "1991", "1993", "1995"],
+      "correct_answer": "1991",
+      "feedback": "L'Union soviétique s'est effondrée en 1991, mettant fin à la Guerre froide et donnant naissance à plusieurs pays indépendants, dont la Russie."
+    },
+    {
+      "question": "Quel pays d'Europe de l'Est a été le théâtre de la 'Révolution de velours' en 1989, mettant fin au régime communiste ?",
+      "choices": ["Pologne", "Hongrie", "République tchèque", "Roumanie"],
+      "correct_answer": "République tchèque",
+      "feedback": "La République tchèque a été le théâtre de la 'Révolution de velours' en 1989, qui a mis fin au régime communiste et marqué le début de la démocratie."
+    },
+    {
+      "question": "Quel pays d'Amérique du Sud est le plus grand producteur mondial de café et est célèbre pour ses plantations de café arabica ?",
+      "choices": ["Colombie", "Brésil", "Pérou", "Équateur"],
+      "correct_answer": "Brésil",
+      "feedback": "Le Brésil est le plus grand producteur mondial de café, en particulier de café arabica, et est réputé pour ses vastes plantations de café."
+    },
+    {
+      "question": "Quelle ville est la capitale du Canada ?",
+      "choices": ["Toronto", "Vancouver", "Ottawa", "Montréal"],
+      "correct_answer": "Ottawa",
+      "feedback": "La capitale du Canada est Ottawa. Bien que Toronto et Montréal soient des villes importantes, Ottawa est le siège du gouvernement."
+    },
+    {
+      "question": "Quelle île dans l'océan Pacifique est souvent appelée le 'Paradis terrestre' en raison de ses plages de sable blanc et de ses eaux cristallines ?",
+      "choices": ["Hawaï", "Bali", "Maldives", "Tahiti"],
+      "correct_answer": "Maldives",
+      "feedback": "Les Maldives, dans l'océan Pacifique, sont souvent appelées le 'Paradis terrestre' en raison de leurs plages de sable blanc et de leurs eaux cristallines."
+    },
+    {
+      "question": "Quel pays d'Amérique du Sud est le plus grand producteur mondial de pétrole brut ?",
+      "choices": ["Venezuela", "Brésil", "Colombie", "Équateur"],
+      "correct_answer": "Venezuela",
+      "feedback": "Le Venezuela est le plus grand producteur mondial de pétrole brut en Amérique du Sud, avec d'importantes réserves pétrolières."
+    },
+    {
+      "question": "Quelle ville européenne est surnommée 'la Ville des Mille Tours' en raison de ses nombreuses églises et cathédrales ?",
+      "choices": ["Paris", "Rome", "Prague", "Barcelone"],
+      "correct_answer": "Prague",
+      "feedback": "Prague, la capitale de la République tchèque, est surnommée 'la Ville des Mille Tours' en raison de ses nombreuses églises et cathédrales historiques."
+    },
+    {
+      "question": "Qui est l'auteur du manga 'Naruto' ?",
+      "choices": ["Akira Toriyama", "Masashi Kishimoto", "Eiichiro Oda", "Tite Kubo"],
+      "correct_answer": "Masashi Kishimoto",
+      "feedback": "Masashi Kishimoto est l'auteur du manga 'Naruto', qui raconte l'histoire de Naruto Uzumaki, un jeune ninja en quête de reconnaissance."
+    },
+    {
+      "question": "Quel manga a pour protagoniste le pirate Monkey D. Luffy à la recherche du trésor légendaire, le 'One Piece' ?",
+      "choices": ["Bleach", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "One Piece",
+      "feedback": "'One Piece' est un manga créé par Eiichiro Oda, mettant en scène Monkey D. Luffy dans sa quête pour devenir le roi des pirates."
+    },
+    {
+      "question": "Quel manga se déroule dans un monde où la magie est monnaie courante et suit les aventures de Lucy, Natsu et d'autres mages de la guilde Fairy Tail ?",
+      "choices": ["Bleach", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "Fairy Tail",
+      "feedback": "'Fairy Tail' est un manga écrit et illustré par Hiro Mashima, centré sur les mages de la guilde Fairy Tail et leurs aventures magiques."
+    },
+    {
+      "question": "Quel manga a pour héros Ichigo Kurosaki, un adolescent capable de voir les esprits et qui devient un Shinigami pour combattre les âmes errantes ?",
+      "choices": ["Bleach", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "Bleach",
+      "feedback": "'Bleach' est un manga de Tite Kubo qui suit les aventures d'Ichigo Kurosaki en tant que Shinigami, luttant contre les âmes errantes maléfiques."
+    },
+    {
+      "question": "Quel manga raconte l'histoire de Gon Freecss, un jeune garçon qui aspire à devenir un Hunter et à retrouver son père absent ?",
+      "choices": ["Hunter x Hunter", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "Hunter x Hunter",
+      "feedback": "'Hunter x Hunter' est un manga créé par Yoshihiro Togashi, mettant en scène Gon Freecss et ses aventures pour devenir un Hunter."
+    },
+    {
+      "question": "Quel est le manga créé par Rumiko Takahashi mettant en scène une étudiante malchanceuse qui tombe dans un puits maudit ?",
+      "choices": ["Inuyasha", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "Inuyasha",
+      "feedback": "'Inuyasha' est un manga de Rumiko Takahashi qui suit les aventures de Kagome Higurashi, une étudiante transportée dans un monde magique."
+    },
+    {
+      "question": "Quel manga met en scène Light Yagami, un étudiant qui découvre un cahier magique permettant de tuer des personnes en écrivant leur nom ?",
+      "choices": ["Naruto", "Death Note", "One Piece", "Fairy Tail"],
+      "correct_answer": "Death Note",
+      "feedback": "'Death Note' est un manga écrit par Tsugumi Ohba et illustré par Takeshi Obata, racontant l'histoire de Light Yagami et son Death Note."
+    },
+    {
+      "question": "Quel manga de science-fiction suit l'histoire d'Edward et Alphonse Elric, des alchimistes en quête de la pierre philosophale pour retrouver leurs corps perdus ?",
+      "choices": ["Fullmetal Alchemist", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "Fullmetal Alchemist",
+      "feedback": "'Fullmetal Alchemist' est un manga de Hiromu Arakawa qui suit les frères Elric dans leur voyage pour retrouver leurs corps et découvrir la vérité de l'alchimie."
+    },
+    {
+      "question": "Quel manga explore l'histoire de Ken Kaneki, un étudiant transformé en demi-humain, demi-ghoul, et sa lutte pour sa propre survie ?",
+      "choices": ["Tokyo Ghoul", "Naruto", "One Piece", "Fairy Tail"],
+      "correct_answer": "Tokyo Ghoul",
+      "feedback": "'Tokyo Ghoul' est un manga de Sui Ishida, décrivant le conflit intérieur de Ken Kaneki en tant que demi-ghoul et ses interactions avec d'autres ghouls."
+    },
+    {
+      "question": "Quel manga de science-fiction suit les aventures de Motoko Kusanagi, une cyborg travaillant pour la Section 9 de la sécurité publique ?",
+      "choices": ["Akira", "Ghost in the Shell", "One Piece", "Fairy Tail"],
+      "correct_answer": "Ghost in the Shell",
+      "feedback": "'Ghost in the Shell' est un manga de Masamune Shirow, explorant des thèmes de cybernétique et d'identité dans un futur cyberpunk."
+    },
+    {
+      "question": "Quel livre est considéré comme la parole de Dieu dans le christianisme ?",
+      "choices": ["Bible", "Coran", "Talmud", "Védas"],
+      "correct_answer": "Bible",
+      "feedback": "La Bible est le livre sacré du christianisme, considéré comme la parole de Dieu par les chrétiens. Elle se compose de l'Ancien Testament et du Nouveau Testament."
+    },
+    {
+      "question": "Quel prophète est considéré comme le messager de Dieu dans l'islam et le Coran ?",
+      "choices": ["Moïse", "Abraham", "Jésus", "Mahomet"],
+      "correct_answer": "Mahomet",
+      "feedback": "Mahomet est considéré comme le prophète de l'islam et le messager de Dieu dans le Coran, la parole divine révélée aux musulmans."
+    },
+    {
+      "question": "Quel est le nom du livre saint du judaïsme, qui contient les enseignements et les lois données par Dieu à Moïse sur le mont Sinaï ?",
+      "choices": ["Bible", "Coran", "Talmud", "Torah"],
+      "correct_answer": "Torah",
+      "feedback": "La Torah est le livre saint du judaïsme, contenant les enseignements et les lois données par Dieu à Moïse sur le mont Sinaï. Elle fait partie de la Bible."
+    },
+    {
+      "question": "Quel texte sacré de l'hindouisme contient les enseignements et les révélations spirituelles anciennes ?",
+      "choices": ["Bible", "Coran", "Védas", "Upanishads"],
+      "correct_answer": "Védas",
+      "feedback": "Les Védas sont les textes sacrés de l'hindouisme, contenant des enseignements et des hymnes anciens liés à la spiritualité et à la connaissance."
+    },
+    {
+      "question": "Quel est le premier livre de la Bible, qui raconte la création du monde par Dieu en six jours ?",
+      "choices": ["Exode", "Lévitique", "Genèse", "Ésaïe"],
+      "correct_answer": "Genèse",
+      "feedback": "La Genèse est le premier livre de la Bible et raconte la création du monde par Dieu en six jours, ainsi que l'histoire d'Adam et Ève."
+    },
+    {
+      "question": "Dans quelle partie de la Bible se trouve le célèbre Psaume 23, 'L'Éternel est mon berger' ?",
+      "choices": ["Ancien Testament", "Nouveau Testament", "Psaumes", "Proverbes"],
+      "correct_answer": "Psaumes",
+      "feedback": "Le Psaume 23, 'L'Éternel est mon berger', se trouve dans le livre des Psaumes, qui fait partie de l'Ancien Testament de la Bible."
+    },
+    {
+      "question": "Quel est le nom du pèlerinage annuel à La Mecque, un des Cinq Piliers de l'islam ?",
+      "choices": ["Ramadan", "Hajj", "Salat", "Zakat"],
+      "correct_answer": "Hajj",
+      "feedback": "Le Hajj est le pèlerinage annuel à La Mecque, l'un des Cinq Piliers de l'islam. Les musulmans accomplissent le Hajj au moins une fois dans leur vie s'ils le peuvent."
+    },
+    {
+      "question": "Quel est le nom du récit biblique de la libération des Israélites de l'esclavage en Égypte, menée par Moïse ?",
+      "choices": ["Création", "Exode", "Rédemption", "Alliance"],
+      "correct_answer": "Exode",
+      "feedback": "L'Exode est le récit biblique de la libération des Israélites de l'esclavage en Égypte, sous la direction de Moïse, en réponse à l'appel de Dieu."
+    },
+    {
+      "question": "Quel terme est utilisé pour décrire la parole de Dieu révélée aux prophètes et transmise dans les textes religieux ?",
+      "choices": ["Théophanie", "Logos", "Révélation", "Dogme"],
+      "correct_answer": "Révélation",
+      "feedback": "Le terme 'Révélation' est utilisé pour décrire la parole de Dieu révélée aux prophètes et transmise dans les textes religieux, tels que la Bible et le Coran."
+    },
+    {
+      "question": "Dans quelle ville se trouve la Kaaba, un lieu saint pour les musulmans et un point central du pèlerinage Hajj ?",
+      "choices": ["Jérusalem", "La Mecque", "Médine", "Le Caire"],
+      "correct_answer": "La Mecque",
+      "feedback": "La Kaaba, un lieu saint pour les musulmans, se trouve à La Mecque en Arabie saoudite. Elle est le point central du pèlerinage Hajj."
+    },
+    {
+      "question": "Quel est le premier livre de l'Ancien Testament de la Bible ?",
+      "choices": ["Genèse", "Exode", "Lévitique", "Nombres"],
+      "correct_answer": "Genèse",
+      "feedback": "La Genèse est le premier livre de l'Ancien Testament de la Bible. Il relate la création du monde, les récits d'Adam et Ève, et l'histoire des patriarches."
+    },
+    {
+      "question": "Combien de livres composent le Nouveau Testament de la Bible chrétienne ?",
+      "choices": ["20", "25", "27", "30"],
+      "correct_answer": "27",
+      "feedback": "Le Nouveau Testament de la Bible chrétienne est composé de 27 livres, y compris les évangiles, les épîtres et l'Apocalypse."
+    },
+    {
+      "question": "Qui est traditionnellement considéré comme l'auteur des cinq premiers livres de l'Ancien Testament, appelés le Pentateuque ?",
+      "choices": ["Moïse", "David", "Salomon", "Jérémie"],
+      "correct_answer": "Moïse",
+      "feedback": "Moïse est traditionnellement considéré comme l'auteur des cinq premiers livres de l'Ancien Testament, le Pentateuque, comprenant la Genèse, l'Exode, etc."
+    },
+    {
+      "question": "Quel roi biblique est célèbre pour sa sagesse et est associé à la construction du Premier Temple de Jérusalem ?",
+      "choices": ["Roi David", "Roi Salomon", "Roi Josias", "Roi Ezéchias"],
+      "correct_answer": "Roi Salomon",
+      "feedback": "Le roi Salomon est célèbre pour sa sagesse et est associé à la construction du Premier Temple de Jérusalem, selon la Bible."
+    },
+    {
+      "question": "Qui a écrit la majorité des Psaumes dans l'Ancien Testament de la Bible ?",
+      "choices": ["David", "Salomon", "Moïse", "Ézéchias"],
+      "correct_answer": "David",
+      "feedback": "Le roi David est traditionnellement considéré comme l'auteur de la majorité des Psaumes de l'Ancien Testament de la Bible."
+    },
+    {
+      "question": "Quel prophète a été jeté dans la fosse aux lions, mais a été miraculeusement sauvé par Dieu dans le livre de Daniel ?",
+      "choices": ["Élie", "Ézéchiel", "Jérémie", "Daniel"],
+      "correct_answer": "Daniel",
+      "feedback": "Le prophète Daniel a été jeté dans la fosse aux lions, mais il a été miraculeusement sauvé par Dieu, comme décrit dans le livre de Daniel."
+    },
+    {
+      "question": "Quel est le dernier livre du Nouveau Testament de la Bible, contenant des prophéties et des visions apocalyptiques ?",
+      "choices": ["Luc", "Actes", "Apocalypse", "Romains"],
+      "correct_answer": "Apocalypse",
+      "feedback": "L'Apocalypse est le dernier livre du Nouveau Testament de la Bible, contenant des prophéties et des visions apocalyptiques attribuées à Jean."
+    },
+    {
+      "question": "Quel roi de Babylone a conquis Jérusalem, détruit le Premier Temple, et déporté les Israélites, marquant le début de la captivité babylonienne ?",
+      "choices": ["Nébucadnetsar II", "Cyrus le Grand", "Darius le Grand", "Xerxès Ier"],
+      "correct_answer": "Nébucadnetsar II",
+      "feedback": "Nébucadnetsar II, roi de Babylone, a conquis Jérusalem, détruit le Premier Temple, et déporté les Israélites en Babylonie, marquant la captivité babylonienne."
+    },
+    {
+      "question": "Quel est le terme pour l'alliance entre Dieu et le peuple d'Israël, établie selon la Bible, et qui est symbolisée par la circoncision ?",
+      "choices": ["Alliance de David", "Alliance abrahamique", "Alliance mosaïque", "Alliance noachique"],
+      "correct_answer": "Alliance abrahamique",
+      "feedback": "L'Alliance abrahamique est l'alliance entre Dieu et le peuple d'Israël, établie avec Abraham et symbolisée par la circoncision."
+    },
+    {
+      "question": "Dans quel livre de l'Ancien Testament trouve-t-on les Dix Commandements, les lois morales données par Dieu à Moïse ?",
+      "choices": ["Exode", "Lévitique", "Deutéronome", "Nombres"],
+      "correct_answer": "Exode",
+      "feedback": "Les Dix Commandements, les lois morales données par Dieu à Moïse, se trouvent dans le livre de l'Exode de l'Ancien Testament de la Bible."
+    },
+     {
+      "question": "Quel était le surnom donné à William Marion Branham en raison de ses dons de guérison et de prophétie ?",
+      "choices": ["Le Prophète du Feu", "L'Évangéliste des Miracles", "Le Messager de l'Heure", "L'Apôtre de la Guérison"],
+      "correct_answer": "Le Messager de l'Heure",
+      "feedback": "William Marion Branham était souvent surnommé 'Le Messager de l'Heure' en raison de ses dons de prophétie et de la prédication sur la fin des temps."
+    },
+    {
+      "question": "Dans quelle décennie a eu lieu le ministère de William Branham, où il a été actif dans la prédication et la guérison divine ?",
+      "choices": ["1920", "1930", "1940", "1950"],
+      "correct_answer": "1950",
+      "feedback": "Le ministère de William Branham a été particulièrement actif dans les années 1950, où il est devenu célèbre pour ses dons de guérison et de prophétie."
+    },
+    {
+      "question": "Quel est le nom de l'église où William Branham a exercé son ministère pastoral pendant de nombreuses années ?",
+      "choices": ["L'Église de la Foi", "L'Église du Christ", "L'Église du Réveil", "L'Église du Tabernacle"],
+      "correct_answer": "L'Église du Tabernacle",
+      "feedback": "William Branham a exercé son ministère pastoral à l'Église du Tabernacle de Branham à Jeffersonville, dans l'Indiana."
+    },
+    {
+      "question": "Quel événement marquant est associé à la vision de la colonne de feu qui a conduit William Branham à son ministère de guérison et de prophétie ?",
+      "choices": ["Son mariage", "Son baptême", "Sa conversion", "Sa première prédication"],
+      "correct_answer": "Son baptême",
+      "feedback": "La vision de la colonne de feu a eu lieu lors du baptême de William Branham dans la rivière Ohio en 1933, et elle est devenue un événement clé de son ministère."
+    },
+    {
+      "question": "Quelle est la doctrine associée à William Branham qui enseigne que l'Église reviendra à la pureté de l'Église primitive des premiers apôtres ?",
+      "choices": ["Restauration de la Doctrine", "Restauration des Miracles", "Restauration de la Foi", "Restauration du Salut"],
+      "correct_answer": "Restauration de la Doctrine",
+      "feedback": "William Branham a enseigné la doctrine de la 'Restauration de la Doctrine', prônant un retour à la pureté de l'Église primitive des apôtres."
+    },
+    {
+      "question": "Quel est le titre d'un livre écrit par William Branham qui résume son enseignement et sa théologie ?",
+      "choices": ["Le Code des Miracles", "Les Paroles des Signes", "L'Évangile de la Guérison", "Le Message de la Heure"],
+      "correct_answer": "Le Message de la Heure",
+      "feedback": "William Branham a écrit un livre intitulé 'Le Message de la Heure', qui résume son enseignement et sa théologie sur la fin des temps."
+    },
+    {
+      "question": "Quel est le terme utilisé pour décrire la croyance que William Branham était un prophète dont les paroles avaient une autorité égale à celles des prophètes bibliques ?",
+      "choices": ["Branhamisme", "Pentecôtisme", "Restaurationnisme", "Charismatisme"],
+      "correct_answer": "Branhamisme",
+      "feedback": "Le terme 'Branhamisme' est utilisé pour décrire la croyance en l'autorité prophétique de William Branham, similaire à celle des prophètes bibliques."
+    },
+    {
+      "question": "Où est décédé William Branham en 1965, mettant fin à son ministère terrestre ?",
+      "choices": ["Jérusalem", "New York", "Dallas", "Tucson"],
+      "correct_answer": "Tucson",
+      "feedback": "William Branham est décédé dans un accident de voiture à Tucson, en Arizona, en 1965, mettant fin à son ministère terrestre."
+    },
+    {
+      "question": "Quel est le nom du mouvement religieux qui a été influencé par l'enseignement et le ministère de William Branham ?",
+      "choices": ["Le Branhamisme", "L'Évangélisme", "Le Mouvement Charismatique", "Le Pentecôtisme"],
+      "correct_answer": "Le Branhamisme",
+      "feedback": "Le mouvement religieux qui a été influencé par l'enseignement et le ministère de William Branham est souvent appelé 'Le Branhamisme'."
+    },
+    {
+      "question": "Quelle est la caractéristique distinctive des rassemblements de guérison dirigés par William Branham, où il prétendait discerner les maladies et les problèmes des gens par révélation divine ?",
+      "choices": ["Imposition des mains", "Évangélisation", "Interprétation des rêves", "L'Ordre de Prière"],
+      "correct_answer": "L'Ordre de Prière",
+      "feedback": "Les rassemblements de guérison dirigés par William Branham comprenaient une pratique appelée 'L'Ordre de Prière', où il prétendait discerner les maladies des gens par révélation divine et prier pour leur guérison."
+    },
+    {
+      "question": "Quel est le nom complet de Lionel Messi, l'une des plus grandes stars du football mondial ?",
+      "choices": ["Lionel Andrés Messi", "Lionel Ronaldo Messi", "Lionel Gabriel Messi", "Lionel Diego Messi"],
+      "correct_answer": "Lionel Andrés Messi",
+      "feedback": "Le nom complet de Lionel Messi est Lionel Andrés Messi. Il est largement reconnu comme l'un des meilleurs joueurs de football de tous les temps."
+    },
+    {
+      "question": "Dans quel club de football Lionel Messi a-t-il débuté sa carrière professionnelle ?",
+      "choices": ["FC Barcelone", "Real Madrid", "Paris Saint-Germain", "Manchester United"],
+      "correct_answer": "FC Barcelone",
+      "feedback": "Lionel Messi a débuté sa carrière professionnelle au FC Barcelone, où il a passé la majeure partie de sa carrière et est devenu une légende du club."
+    },
+    {
+      "question": "Combien de Ballon d'Or (FIFA World Player of the Year) a remporté Lionel Messi ?",
+      "choices": ["5", "6", "7", "8"],
+      "correct_answer": "8",
+      "feedback": "Lionel Messi a remporté 8 Ballon d'Or, ce qui en fait l'un des joueurs les plus titrés de l'histoire Dévant son grand  rival cristiano ronaldo qui en a remporté 5. "
+    },
+    {
+      "question": "Quel est le club actuel de Lionel Messi depuis qu'il a quitté le  Paris Saint-Germain (PSG) ?",
+      "choices": ["FC Barcelone","inter miami", "Manchester City", "Real Madrid"],
+      "correct_answer": "inter miami",
+      "feedback": "En 2023, Lionel Messi a rejoint le inter miami après avoir passé deux saisons au Psg par la quelle il a eu des difficultés  ."
+    },
+    {
+      "question": "Où est né Lionel Messi, qui a ensuite déménagé en Espagne pour rejoindre la jeunesse du FC Barcelone ?",
+      "choices": ["Espagne", "Brésil", "Argentine", "Portugal"],
+      "correct_answer": "Argentine",
+      "feedback": "Lionel Messi est né en Argentine et a déménagé en Espagne pour rejoindre la jeunesse du FC Barcelone, où il a été développé en tant que footballeur."
+    },
+    {
+      "question": "Quel est le nom complet de Cristiano Ronaldo, un autre grand footballeur connu pour ses prouesses sur le terrain ?",
+      "choices": ["Cristiano Mario Ronaldo", "Cristiano Gabriel Ronaldo", "Cristiano Luis Ronaldo", "Cristiano Ronaldo Jr."],
+      "correct_answer": "Cristiano Ronaldo",
+      "feedback": "Le nom complet de Cristiano Ronaldo est Cristiano Ronaldo. Il est l'un des joueurs les plus célèbres de l'histoire du football."
+    },
+    {
+      "question": "Dans quel club de football Cristiano Ronaldo a-t-il commencé sa carrière professionnelle ?",
+      "choices": ["Manchester United", "Real Madrid", "FC Barcelone", "Sporting CP"],
+      "correct_answer": "Sporting CP",
+      "feedback": "Cristiano Ronaldo a commencé sa carrière professionnelle au Sporting CP au Portugal, avant de rejoindre Manchester United en 2003."
+    },
+    {
+      "question": "Combien de Ballon d'Or (FIFA World Player of the Year) a remporté Cristiano Ronaldo jusqu'à la date de ma connaissance en septembre 2021 ?",
+      "choices": ["3", "4", "5", "6"],
+      "correct_answer": "5",
+      "feedback": "Jusqu'à la date de ma connaissance en septembre 2021, Cristiano Ronaldo avait remporté 5 Ballon d'Or, récompensant sa performance exceptionnelle sur le terrain."
+    },
+    {
+      "question": "Quel club a accueilli Cristiano Ronaldo en 2021 lors de son retour en Premier League après avoir quitté la Juventus ?",
+      "choices": ["Manchester United", "Manchester City", "Liverpool", "Chelsea"],
+      "correct_answer": "Manchester United",
+      "feedback": "En 2021, Cristiano Ronaldo est retourné à Manchester United, le club où il a connu une grande réussite avant de partir pour le Real Madrid en 2009."
+    },
+    {
+      "question": "D'où est originaire Cristiano Ronaldo, qui est devenu l'un des footballeurs les plus renommés de l'histoire ?",
+      "choices": ["Brésil", "Argentine", "Portugal", "Espagne"],
+      "correct_answer": "Portugal",
+      "feedback": "Cristiano Ronaldo est originaire du Portugal, et il est devenu un symbole national en raison de ses exploits sur le terrain et de sa carrière exceptionnelle."
+    }
+
+
+  ]
+}

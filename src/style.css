@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: 'Fira Sans',
+        sans-serif;
+    }
+
+.correct-answer {
+    color: rgb(53, 246, 53);
+}
+
+/* Style pour une réponse incorrecte */
+.incorrect-answer {
+    color: red;
+}
+
+.choices button {
+    background-color: #3490dc;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+}
+

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <link href=”output.css” rel=”stylesheet”>    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&family=Ubuntu&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+   
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        
+    
+
+
+    <title>Quiz-game</title>
+</head>
+<body class="m-0 p-0 bg-indigo-500">
+
+
+<!-- Le reste du contenu de la page -->
+<div class="container max-w-full xl:max-w-4xl shadow-2xl bg-indigo-100  mx-auto p-20 m-auto border-solid rounded-md ">
+    <h1 class="text-2xl text-indigo-500 text-center font-bold mb-4 ">Quiz Game</h1>
+    <div id="question-container text-center">
+        <p class="text-2xl mb-20 text-indigo-500 text-sm" id="question"></p>
+        <div id="choices" class="grid grid-cols-2 gap-4 mt-4 flex-row text-gray-950 text-2xl shadow-xl text-sm"></div>
+    </div>
+    <p id="feedback" class="text-sm text-indigo-500 mt-4 text-3xl"></p>
+</div>
+
+
+<!-- Inclure les scripts Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+
+<script src="index.js"></script>
+</body>
+</html>
