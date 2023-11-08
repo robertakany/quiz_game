@@ -1,6 +1,10 @@
 const theQuestion = document.getElementById('question');
 const choicesElement = document.getElementById("choices");
 const feedbackElement = document.getElementById("feedback");
+const restartQuizBtn = document.getElementById("restartQuizBtn")
+
+restartQuizBtn.style.display = 'none' 
+
 
 let questions = [];
 let currentQuestionIndex = 0;
@@ -25,11 +29,12 @@ function shuffleArray(array) {
 }   
 
 function showQuestion() {
-    if (currentQuestionIndex < questions.length) {
+    if (currentQuestionIndex < 10) {
         const currentQuestion = questions[currentQuestionIndex];
         theQuestion.textContent = currentQuestion.question;
         choicesElement.innerHTML = "";
         choicesElements = [];
+        
 
         currentQuestion.choices.forEach((choice, index) => {
             const choiceButton = document.createElement("button");
@@ -42,7 +47,8 @@ function showQuestion() {
         });
     }
     else {
-        endQuiz();
+        endQuiz(); 
+        restartQuizBtn.style.display = 'block'
     }
 }
 
@@ -52,6 +58,7 @@ function checkAnswer(choice, index) {
         feedbackElement.textContent = "C'est correct✌🏻 ! " + currentQuestion.feedback;
         choicesElements[index].classList.add('correct-answer');
         score++;
+        console.log(score)
     } else {
         feedbackElement.textContent = "C'est incorrect 🙁! " + currentQuestion.feedback;
         choicesElements[index].classList.add('incorrect-answer');
@@ -59,13 +66,15 @@ function checkAnswer(choice, index) {
     currentQuestionIndex++;
     setTimeout(showQuestion, 5000); // Ajoutez un délai pour afficher la question suivante après 1 seconde.
     
-    if (currentQuestionIndex === 10) {
-         endQuiz();
-     }
+    
 }
 
 function endQuiz() {
-    theQuestion.textContent = "Quiz terminé ! Votre score est de " + score + " sur " + questions.length;
+    theQuestion.textContent = "Quiz terminé ! Votre score est de " + score + " sur " + 10;
     choicesElement.innerHTML = "";
     feedbackElement.textContent = "";
 }
+
+
+restartQuizBtn.addEventListener('click', showQuestion())
+
